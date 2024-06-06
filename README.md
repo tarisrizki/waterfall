@@ -1,4 +1,9 @@
 ## MASDU V 1.0.0
+
+## Kelompok 13
+- M. Taris Rizki 2208107010047
+- Zuwi Pertiwi 2208107010061
+
 ## Setup
 - buka direktori project di terminal anda.
 - ketikan command : cp .env.example .env (copy paste file .env.example)
